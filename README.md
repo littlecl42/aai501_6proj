@@ -4,7 +4,7 @@ Predicting Future Military Expenditures Using SIPRI Data
 
 This project is a part of the AAI-501 course in the Applied Artificial Intelligence Program at the University of San Diego (USD). 
 
--- Project Status: [In Work]
+-- Project Status: [Completed]
 
 Installation
 N/A at this time
